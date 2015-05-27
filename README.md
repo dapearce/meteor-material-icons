@@ -1,4 +1,4 @@
-## About
+## material-icons
 
 [Material Design Icons](http://materialdesignicons.com/) webfont packaged for [Meteor.js](http://meteor.com).
 
