@@ -2,7 +2,7 @@
 
 [Material Design Icons](http://materialdesignicons.com/) webfont packaged for [Meteor.js](http://meteor.com).
 
-Currently using version 1.0.63 of [Material Design Icons](http://materialdesignicons.com/)
+Currently using version 1.1.34 of [Material Design Icons](http://materialdesignicons.com/)
 
 ### Usage
 
