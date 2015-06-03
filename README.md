@@ -6,7 +6,7 @@ Currently using version 1.1.34 of [Material Design Icons](http://materialdesigni
 
 ### Usage
 
-Just run `meteor add bevy:material-icons` in your project, then use the standard MDI webfont markup:
+Just run `meteor add dapearce:material-icons` in your project, then use the standard MDI webfont markup:
 
     <i class="mdi mdi-home"></i> Home
 
