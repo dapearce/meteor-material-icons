@@ -1,6 +1,6 @@
 Package.describe({
-  name: 'bevy:material-icons',
-  version: '1.0.0',
+  name: 'dapearce:material-icons',
+  version: '0.1.0',
   summary: 'A meteor package for the material design icon font.',
   git: 'https://github.com/wearebevy/meteor-material-icons.git',
   documentation: 'README.md'
