@@ -1,16 +1,16 @@
 ## material-icons
 
-[Material Design Icons](http://materialdesignicons.com/) webfont packaged for [Meteor.js](http://meteor.com).
+A package to add the [Material Design Icons](http://materialdesignicons.com/) webfont to your [Meteor.js](http://meteor.com) project.
 
-Currently using version 1.1.34 of [Material Design Icons](http://materialdesignicons.com/)
+The Material Design Icon font includes all of the [official Google Material Design icons](https://github.com/google/material-design-icons), as well as hundreds of additional community created icons. The entire icon library can be found at [materialdesignicons.com](http://materialdesignicons.com).
+
+This package is updated to version 1.1.70 of the [Material Design Icons](http://materialdesignicons.com/).
 
 ### Usage
 
-Just run `meteor add dapearce:material-icons` in your project, then use the standard MDI webfont markup:
+Run `meteor add dapearce:material-icons` in your project, then use the standard MDI webfont markup:
 
-    <i class="mdi mdi-home"></i> Home
-
-
+    <i class="mdi mdi-home"></i>
 
 ### Icons
 
