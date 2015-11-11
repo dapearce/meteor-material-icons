@@ -15,3 +15,7 @@ Run `meteor add dapearce:material-icons` in your project, then use the standard 
 ### Icons
 
 The icon library can be found at [materialdesignicons.com](http://materialdesignicons.com)
+
+### Changelog
+
+Version history can be [followed here](https://materialdesignicons.com/history).
