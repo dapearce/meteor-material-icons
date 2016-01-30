@@ -1,6 +1,6 @@
 Package.describe({
   name: 'dapearce:material-icons',
-  version: '0.1.4',
+  version: '0.1.5',
   summary: 'A meteor package for the material design icons font.',
   git: 'https://github.com/dapearce/meteor-material-icons.git',
   documentation: 'README.md'
